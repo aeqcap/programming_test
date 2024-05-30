@@ -41,7 +41,7 @@ def sortino_ratio(prices):
     Code a function that takes a DataFrame named prices and
     returns the Sortino ratio for each column
     Assume risk-free rate = 0
-    On the given test set, it should yield 0.05457
+    On the given test set, it should yield 0.321853
     """
     pass
 
@@ -50,7 +50,7 @@ def expected_shortfall(prices, level=0.95):
     """
     Code a function that takes a DataFrame named prices and
     returns the expected shortfall at a given level
-    On the given test set, it should yield -0.03468
+    On the given test set, it should yield -0.024844
     """
     pass
 
